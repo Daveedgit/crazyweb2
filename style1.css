@@ -1,0 +1,21 @@
+
+.column {
+  float:left;
+   width: 30%;
+   padding: 20px;
+   height: 300px
+  
+}
+
+.left  {
+  width: 10%;
+}
+.right {
+  justify-content: center;
+  padding-left: 10px;
+}
+
+.middle {
+  width: 50%;
+  justify-content: center;
+}
